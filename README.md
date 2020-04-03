@@ -20,6 +20,12 @@ Move into the new directory:
 cd pixel-art-maker/
 ```
 
+Extract the files:
+
+```
+unzip pixel-art-maker.zip
+```
+
 Open index.html to run!
 
 ## Authors
