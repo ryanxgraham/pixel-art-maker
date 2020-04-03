@@ -5,10 +5,10 @@ Source code for a pixel art maker, contained in three files (.html, .css, ,js)
 
 I implemented functionality in javascript that takes user input to create a grid upon which the user can change the color of individual cells by picking a color, and then clicking on the cell.
 
-###Prerequisites
+### Prerequisites
 A Web browser
 
-###Installing
+### Installing
  From the Terminal, clone this repo onto your computer with:
 ```
 https://github.com/ryanxgraham/pixel-art-maker
